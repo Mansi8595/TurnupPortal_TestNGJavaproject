@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a05a3104-39fc-4b9a-8799-21c31f736bc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/turnupportal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/EmployeePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/Homepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/TimeMaterialPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/turnupportal/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mansi8595/TurnupPortal_TestNGJavaproject.git",
+    "accountId": "50cb7e57-454f-4aa2-b9dc-12faa439c789"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -49,7 +45,7 @@
     "TestNG.TimeMaterialTests.TestCreateTimeMaterialRecord.executor": "Run",
     "TestNG.TimeMaterialTests.TestDeleteTimeMaterialRecord.executor": "Run",
     "TestNG.TimeMaterialTests.TestUpdateTimeMaterialRecord.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/parma/OneDrive/Desktop/Mansi-Industryconnect/DemoTurnUpPortal/java Project/TurnUpPortalTestNGProject/src/test/java",
     "onboarding.tips.debug.path": "C:/Users/parma/OneDrive/Desktop/Mansi-Industryconnect/DemoTurnUpPortal/java Project/TurnUpPortalTestNGProject/src/main/java/org/turnupportal/Main.java"
@@ -152,16 +148,5 @@
       <updated>1717990795162</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/turnupportal/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
